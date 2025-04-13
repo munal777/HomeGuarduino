@@ -1,6 +1,6 @@
 # HomeGuarduino – IoT-Based Home Security System
 
-HomeGuarduino is an IoT-based home security system that integrates ESP32, sensors, and Django Rest Framework (DRF) to monitor and alert homeowners about potential security threats. It uses PostgreSQL for message storage and SendGrid for email notifications.
+HomeGuarduino is an IoT-based home security system project that integrates ESP32, sensors, and REST APIs to monitor and alert homeowners about potential security threats. It uses PostgreSQL for message storage and SendGrid for email notifications. I developed this project as the part of the **Cloud Computing and the Internet of Things** module to demonstrate how IoT devices can work with cloud technologies for smart home security.
 
 ## Features
 ✅ Real-time motion detection using PIR sensor  
